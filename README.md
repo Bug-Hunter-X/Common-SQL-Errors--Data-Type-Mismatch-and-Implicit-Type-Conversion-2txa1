@@ -1,0 +1,1 @@
+This repository demonstrates common SQL errors related to data type mismatch and implicit type conversion. The `bug.sql` file shows examples of these errors, while `bugSolution.sql` provides corrected versions.
